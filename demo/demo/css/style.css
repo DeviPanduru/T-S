@@ -1,0 +1,12 @@
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.my-btn {
+    padding: 10px 20px;
+    color: white;
+    background-color: red;
+    border: none;
+}

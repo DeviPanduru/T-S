@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="19px" viewBox="0 0 20 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/basket</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 0 1.000000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="☮️-Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="button/basket" transform="translate(-12.000000, -13.000000)">
+            <g id="icon/basket" transform="translate(12.000000, 12.000000)" filter="url(#filter-1)">
+                <g>
+                    <g id="basket" transform="translate(0.000000, 9.000000)" stroke="#E0E0E0">
+                        <path d="M0.599106359,0.5 L19.4008936,0.5 L17.9559457,8.4472136 C17.8478796,9.04157697 17.5350148,9.55477357 17.0981395,9.91937933 C16.6612643,10.2839851 16.1003786,10.5 15.4962709,10.5 L15.4962709,10.5 L4.50372906,10.5 C3.89962138,10.5 3.33873572,10.2839851 2.90186046,9.91937933 C2.46498521,9.55477357 2.15212035,9.04157697 2.04405428,8.4472136 L2.04405428,8.4472136 L0.599106359,0.5 Z" id="Rectangle"></path>
+                    </g>
+                    <polyline id="Path-2" stroke="#E0E0E0" stroke-linecap="square" points="16 9 10 1 4 9"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

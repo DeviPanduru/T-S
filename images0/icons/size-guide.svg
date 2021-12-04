@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="18px" viewBox="0 0 25 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/tape measure</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.893625 0 0 0 0 0.893625 0 0 0 0 0.893625 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🛣-Carnaby-Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1366-carnaby---product-full-v2" transform="translate(-952.000000, -536.000000)">
+            <g id="product-info" transform="translate(953.000000, 286.000000)">
+                <g id="icon/tape-measure" transform="translate(0.000000, 251.000000)" filter="url(#filter-1)">
+                    <g id="Group" stroke="#979797">
+                        <ellipse id="Oval" cx="9" cy="5" rx="9" ry="5"></ellipse>
+                        <path d="M23.0151367,16 C23.0151367,13.8409492 23.0151367,11.8409492 23.0151367,10 C23.0151367,7.23857625 18.9856995,5 14.0151367,5 C10.7014282,5 6.02971598,5 0,5 L0,11 L14.0151367,11" id="Oval" transform="translate(11.507568, 10.500000) rotate(180.000000) translate(-11.507568, -10.500000) "></path>
+                        <ellipse id="Oval" cx="9" cy="5" rx="5" ry="2"></ellipse>
+                        <line x1="19" y1="10" x2="19" y2="16" id="Path-5"></line>
+                        <line x1="16" y1="10" x2="16" y2="12" id="Path-6"></line>
+                        <line x1="13" y1="10" x2="13" y2="13" id="Path-6"></line>
+                        <line x1="10" y1="10" x2="10" y2="12" id="Path-6"></line>
+                        <line x1="7" y1="10" x2="7" y2="13" id="Path-6"></line>
+                        <line x1="4" y1="9" x2="4" y2="11" id="Path-6"></line>
+                        <line x1="18" y1="5" x2="18" y2="10" id="Path-7"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
